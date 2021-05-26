@@ -20,16 +20,26 @@ This report will enumerate the differences in ride share data among the Urban, S
 3. **Average Fare Costs:** Rural and Suburban cities garner significantly more Fare Revenue per ride and per driver than Urban Cities.
 
 ---
-## **<p align="center">Visualization of Total Fares</p>**
+## **<p align="center">Visualization of Total Fares </p>**
 ---
 
+**<p align="center">Urban cities garner significantly more total Fare Revenue than other city types</p>**
+  > (Urban: Yellow, Suburban: Red, Rural: Blue)
+   
 <p align="center">
    <img width="1100" height="300" src="https://github.com/Jamesrx33/pyber-analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true">
 </p>
 
 ---
-
 ## Summary
+---
+
+The total Fare Revenue is greatest from Urban cities, however, Suburban and Rural cities garner a greater per-ride and per-driver fare. In order to increase overall Fare Revnue, i would suggest the following:
+
+1. Hire additonal drivers for Rural and Suburban cities.
+2. Increase the Fare cost in Urban and Suburban cities to reflect the respective demand based on total rides.
+3. Reduce the number of drivers for Urban cities, as there is a surplus of drivers-to-rides.
 
 ---
+
 ## Reference Documentation - [Source Code Repository](https://github.com/Jamesrx33/pyber-analysis), [Download .zip file](https://github.com/Jamesrx33/pyber-analysis/archive/refs/heads/main.zip)
